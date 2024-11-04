@@ -1,8 +1,9 @@
-1# Versiones disponibles
+# Versiones disponibles
 # forge, mohist, fabric, vanilla, paper
 
-# Puedes instalar mohist después de instalar forge desde el menú de gestionar
-# Puedes instalar paper después de instalar vanilla desde el menú de gestionar
+# Puedes instalar mohist después de instalar forge desde el menúm de gestionar
+# Puedes instalar paper después de insta
+# lar vanilla desde el menú de gestionar
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
 
 # Regiones de ngrok
